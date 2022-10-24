@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DarkRealist89
+- 👀 I’m interested in SPA,Web applications.
+- 🌱 I’m currently learning React, Redux, Typescript.
+- 💞️ I’m looking to collaborate on cool projects.
+- 📫 How to reach me ...
